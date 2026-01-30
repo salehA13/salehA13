@@ -1,4 +1,4 @@
-# Hey, I'm Saleh 👋
+# Hey, I'm Saleh
 
 **Building AI for Healthcare 🏥**
 
