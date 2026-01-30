@@ -2,7 +2,7 @@
 
 **Building AI for Healthcare 🏥**
 
-CS graduate from King Saud University (minor in AI & Data Science). Co-founder & CTO at [MedFlow](https://medflow.sa) — where we're turning doctor-patient conversations into structured clinical notes using AI. Previously at SDAIA (Saudi Data & AI Authority).
+CS graduate from Prince Sultan University (minor in AI & Data Science). Co-founder & CTO at [MedFlow](https://medflow.sa) — where we're turning doctor-patient conversations into structured clinical notes using AI. Previously at SDAIA (Saudi Data & AI Authority).
 
 I care about shipping real products at the intersection of AI and healthcare.
 
