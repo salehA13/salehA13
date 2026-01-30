@@ -1,6 +1,6 @@
 # Hey, I'm Saleh
 
-**Building AI for Healthcare 🏥**
+**AI/ML Engineer | Building Healthcare AI @MedFlow**
 
 CS graduate from Prince Sultan University (minor in AI & Data Science). Co-founder & CTO at [MedFlow](https://medflow.sa) — where we're turning doctor-patient conversations into structured clinical notes using AI. Previously at SDAIA (Saudi Data & AI Authority).
 
