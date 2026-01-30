@@ -62,6 +62,8 @@ I care about shipping real products at the intersection of AI and healthcare.
 | Project | Description |
 |---------|-------------|
 | [**RAG Document Intelligence**](https://github.com/salehA13/rag-document-intelligence) | Production-grade RAG system with hybrid semantic + keyword search, RRF re-ranking, FastAPI backend, and Streamlit UI |
+| [**AI Resume Analyzer**](https://github.com/salehA13/ai-resume-analyzer) | AI-powered resume analysis tool — skills extraction, ATS scoring, and improvement suggestions. React + FastAPI + LLM |
+| [**Arabic NLP Utils**](https://github.com/salehA13/arabic-nlp-utils) | Lightweight Arabic NLP preprocessing toolkit — cleaning, normalization, tokenization, and stopword removal |
 | [**Arabic Sentiment Analysis**](https://github.com/salehA13/arabic-sentiment-analysis) | NLP pipeline for Arabic text sentiment classification |
 | [**Saudi Healthtech Market Analysis**](https://github.com/salehA13/saudi-healthtech-market-analysis) | Healthtech market sizing & entry strategy — TAM/SAM/SOM, competitive analysis, and GTM strategy for AI clinical documentation |
 
