@@ -69,16 +69,7 @@ I care about shipping real products at the intersection of AI and healthcare.
 
 ---
 
-### GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=salehA13&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salehA13&layout=compact&theme=github_dark&hide_border=true" height="170" />
-</p>
-
----
-
 ### Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/salehA13)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/saleh-alkhudairy)
 [![Email](https://img.shields.io/badge/saleh@medflow.sa-D14836?style=flat&logo=gmail&logoColor=white)](mailto:saleh@medflow.sa)
