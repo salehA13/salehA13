@@ -1,8 +1,8 @@
 # Saleh Alkhudairy
 
-### Co-founder & CTO @ [MedFlow](https://medflow.sa) · Healthcare AI, built in Saudi Arabia
+### Co-founder & CTO @ [MedFlow](https://medflow.sa) · Clinical data infrastructure, built in Saudi Arabia
 
-I lead engineering and product at **MedFlow**, where we use AI to turn messy clinical documentation into structured, usable data for healthcare providers — and I own the call on how it's built, from the models to the deployment.
+I lead engineering and product at **MedFlow**, where we structure decades of unstructured clinical data into queryable registries — OMOP CDM, clinical NLP, and data warehousing for hospitals that need their own data to actually be usable. I own the call on how it's built, from the extractors to the deployment.
 
 I care about shipping real products at the intersection of AI and healthcare, in regulated environments where getting it right actually matters. Previously at **SDAIA** (Saudi Data & AI Authority). Computer Science background in AI & Data Science from Prince Sultan University.
 
@@ -10,9 +10,9 @@ I care about shipping real products at the intersection of AI and healthcare, in
 
 ### What I'm building
 
-- **[MedFlow](https://medflow.sa)** — AI-powered clinical documentation for healthcare providers
-- Clinical NLP & RAG systems for structuring free-text medical records
-- Arabic-first language tooling for healthcare and other regulated industries
+- **[MedFlow](https://medflow.sa)** — clinical data infrastructure that turns unstructured EMR data into OMOP-mapped, queryable registries
+- Clinical NLP pipelines for entity extraction from free-text medical records
+- De-identification, data quality, and compliance tooling for regulated healthcare environments
 
 ---
 
@@ -21,15 +21,13 @@ I care about shipping real products at the intersection of AI and healthcare, in
 | Project | What it is |
 |---------|-----------|
 | [**RAG Document Intelligence**](https://github.com/salehA13/rag-document-intelligence) | Production-grade RAG — hybrid semantic + keyword search, RRF re-ranking, FastAPI backend, Streamlit UI |
-| [**Saudi Healthtech Market Analysis**](https://github.com/salehA13/saudi-healthtech-market-analysis) | Market sizing & go-to-market for AI clinical documentation — TAM/SAM/SOM and competitive landscape |
-| [**Arabic NLP Utils**](https://github.com/salehA13/arabic-nlp-utils) | Arabic NLP preprocessing toolkit — cleaning, normalization, tokenization, stopwords |
-| [**Arabic Sentiment Analysis**](https://github.com/salehA13/arabic-sentiment-analysis) | NLP pipeline for Arabic sentiment classification |
+| [**Saudi Healthtech Market Analysis**](https://github.com/salehA13/saudi-healthtech-market-analysis) | Market sizing & go-to-market for clinical data infrastructure — TAM/SAM/SOM and competitive landscape |
 
 ---
 
 ### Stack
 
-`Python` · `TypeScript` · `PyTorch` · `Hugging Face` · `LangChain` · `FastAPI` · `Node` · `React / Next.js` · `React Native` · `Supabase / PostgreSQL` · `Docker`
+`Python` · `TypeScript` · `PyTorch` · `Hugging Face` · `FastAPI` · `PostgreSQL` · `DuckDB` · `dbt` · `Docker` · `GCP` · `OMOP CDM` · `FHIR`
 
 ---
 
